@@ -5,9 +5,9 @@ import random
 # Koneksi ke database
 db = mysql.connector.connect(
     host="localhost",
-    user="root",  # Ganti dengan username database Anda
-    password="",  # Ganti dengan password database Anda
-    database="transaksi"  # Ganti dengan nama database Anda
+    user="username",  # Ganti dengan username database Anda
+    password="password",  # Ganti dengan password database Anda
+    database="database"  # Ganti dengan nama database Anda
 )
 
 cursor = db.cursor()
