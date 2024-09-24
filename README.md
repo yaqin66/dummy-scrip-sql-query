@@ -1,4 +1,4 @@
-# dummy-scrip-sql-query
+# dummy-script-sql-query
 
 Generete Query SQL 10.000 Data with Faker Python.
 
